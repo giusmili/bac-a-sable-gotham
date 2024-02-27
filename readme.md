@@ -30,3 +30,5 @@ En décembre 1975 la ville de New York est en faillite. Deux jours avant qu'elle
 La ville de New York est la ville la plus peuplée des États-Unis, avec une population deux fois supérieure à la deuxième ville du pays, Los Angeles (3 743 995 habitants). Elle compte en effet 8 175 133 habitants en 2010, ce qui représente près de 40 % de la population de l'État de New York. Le Grand New York ou New York Metropolitan area est l'aire urbaine la plus peuplée des États-Unis et la troisième du monde derrière Tokyo et Mexico. Cette région s'étend sur quatre États (New York, New Jersey, Connecticut, Pennsylvanie) et quelque 17 400 km2. Sa population est de 18,8 millions d'habitants en 20. La CMSA de New York rassemble environ 22,2 millions d'habitants en 2009 
 
 > 🔎 Les contenus images sont dans le répertoire asset de ce dépôt
+> [Publication](https://lucas93220.github.io/Projet_cinema/)
+
