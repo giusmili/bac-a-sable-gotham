@@ -7,3 +7,18 @@
 --silver: #ada9a9ff;
 --jet: #302f2fff;
 }
+
+header,
+nav,
+main,
+footer{
+    max-width: 100rem;
+    margin:0 auto;
+    
+}
+div.picture img{
+    display: inline-block;
+    width: 100%;
+    object-fit: cover;
+    vertical-align: middle;
+}

@@ -4,6 +4,7 @@
 html {
   font-size: 62.5%; /* 1rem = 10px */
   box-sizing: border-box;
+  scroll-behavior: smooth;
 }
 *,
 *::before,
@@ -19,7 +20,7 @@ body {
   line-height: 1.6;
   margin: 0;
   letter-spacing: 0.1rem; /* Espacement entre les lettres */
-  font-weight: 100;
+  font-weight: 200;
 }
 h1,
 h2,
@@ -34,4 +35,8 @@ ol,
 ul {
   margin: 0;
   padding: 0;
+  list-style-type: none;
+}
+a{
+    text-decoration: none;
 }
