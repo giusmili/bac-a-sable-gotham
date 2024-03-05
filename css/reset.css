@@ -1,23 +1,25 @@
 /* reset css */
 /* Reset de base */
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display=swap");
 html {
-    font-size: 62.5%; /* 1rem = 10px */
-    box-sizing: border-box;
+  font-size: 62.5%; /* 1rem = 10px */
+  box-sizing: border-box;
 }
-*, *::before, *::after {
-    box-sizing: inherit;
-    margin: 0;
-    padding: 0;
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+  margin: 0;
+  padding: 0;
 }
 
 /* Styles supplémentaires */
 body {
-    font: 1.6rem "Roboto Slab",sans-serif;
-    line-height: 1.6;
-    margin: 0;
-    letter-spacing: 0.1rem; /* Espacement entre les lettres */
-    font-weight: 100;
+  font: 1.6rem "Roboto Slab", sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  letter-spacing: 0.1rem; /* Espacement entre les lettres */
+  font-weight: 100;
 }
 h1,
 h2,
@@ -26,7 +28,10 @@ h4,
 h5,
 h6,
 p,
-figure,blockquote,ol,ul{
-    margin: 0;
-    padding: 0;
+figure,
+blockquote,
+ol,
+ul {
+  margin: 0;
+  padding: 0;
 }
